@@ -1,5 +1,4 @@
-# Sitio-web-Ejemplo-3
-Sitio-web-Ejemplo-3 (Tu Equilibrio)
+# Sitio-web-Ejemplo-3 (Tu Equilibrio)
 Proyecto HTML + CSS (NO RESPONSIVE DESIGN) "link"
 
 --ESPAÑOL-- LENGUAJE USADO: HTML, CSS. NO RESPONSIVE DESIGN
