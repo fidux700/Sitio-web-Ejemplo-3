@@ -1,0 +1,178 @@
+body{
+    background-color: beige;
+}
+
+/* ---------------------------------- */
+/* NAV */
+nav ul {
+    list-style: none;
+
+}
+
+nav{
+    border: 1px solid peru;
+    border-radius: 22px 22px;
+}
+
+
+
+nav ul li img{
+    width: 20px;
+    height: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.Nuestrasterapias{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+.Nuestrasterapias1{
+    color: red;
+    font-weight: bold;
+}
+/* ---------------------------------- */
+
+/* ---------------------------------- */
+/* TITULO PRINCIPAL */
+.Titulo{
+    font-size: 80px;
+    font-style:italic;
+    text-align: justify;
+    color: darkorange;
+    text-shadow:#333;
+}
+    
+/* ---------------------------------- */
+/* SECCION PREGUNTAS FRECUENTES */
+.videosIframe{
+    width: 500px;
+    height: 270px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+#faq{
+    text-align: center;
+    box-shadow: 5px 0px 30px 1px peru;
+    border-radius: 22px 22px;
+}
+
+.subtitulosDis{
+    font-size: 30px;
+    color: darkorange;
+    text-decoration: underline;
+    font-style: italic;
+    
+}    
+.subtitulos{
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+}
+
+
+/* ---------------------------------- */
+
+/* SECCION NOSOTROS */
+#nosotros{
+    box-shadow: 5px 0px 30px 1px peru;
+    border-radius: 10px 10px;
+    
+}
+
+.CarolinaVelez a{
+    color: red;
+}
+
+/* ---------------------------------- */
+
+/* SECCION NOTICIAS HOLISTICAS */
+
+#noticias{
+    box-shadow: 5px 0px 30px 1px peru;
+    text-align: center;
+    border-radius: 22px 22px;
+}
+
+.subtitulosNoticias{
+    font-size: 40px;
+    color: darkorange;
+    text-decoration: underline;
+}
+
+.imagenesNoticias{
+    width: 600px;
+    height: 400px;
+}
+
+
+.videoNoticias{
+    width: 600px;
+    height: 400px;
+}
+
+
+figcaption{
+    color: brown;
+    background-color: beige;
+    font-weight: bold;
+}
+
+.imagenFlechaUp{
+    width: 60px;
+    height: 60px;
+    
+}
+
+.ContenedorDeFlecha{
+    text-align: right;
+}
+/* ---------------------------------- */
+
+/* SECCION PIE DE PAGINA */
+
+
+.pieDePagina{
+    text-align: right;
+    color: white;
+    box-shadow: 5px 0px 10px 10px peru;
+    background-color: brown;
+    border-radius: 22px 22px;
+}
+
+
+.spandeFooter{
+    color: white;
+}
+
+.pieDePagina img{
+    width: 20px;
+    height: 20px;
+}
+
+
+/* ---------------------------------- */
+/* GENERAL */
+span{
+    font-weight: bold;
+    color: brown;
+}
+
+.subtitulosGenerales{
+    color: darkred;
+    font-size: 33px;
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+}

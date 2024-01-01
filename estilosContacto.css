@@ -1,0 +1,114 @@
+body{
+    background-color: beige;
+}
+
+/* ---------------------------------- */
+/* NAV */
+nav ul {
+    list-style: none;
+
+}
+
+nav{
+    border: 1px solid peru;
+    border-radius: 22px 22px;
+}
+
+
+
+nav ul li img{
+    width: 20px;
+    height: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.Nuestrasterapias{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+.Nuestrasterapias1{
+    color: red;
+    font-weight: bold;
+}
+.spanNav{
+    color: gray;
+}
+/* ---------------------------------- */
+/* TITULO PRINCIPAL */
+
+.Titulo{
+    font-size: 80px;
+    font-style:italic;
+    text-align: justify;
+    color: darkorange;
+    text-shadow:#333;
+}
+
+/* ---------------------------------- */
+/* GENERAL */
+span{
+    font-weight: bold;
+    color: brown;
+}
+
+.subtitulosGenerales{
+    color: darkred;
+    font-size: 33px;
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+label{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+fieldset{
+    border-radius: 22px 22px;
+    box-shadow: 0 0 22px 0 peru;
+    border: none;
+}
+
+.imagenFlechaUp{
+    width: 60px;
+    height: 60px;
+    
+}
+
+.ContenedorDeFlecha{
+    text-align: right;
+}
+/* ---------------------------------- */
+/* SECCION PIE DE PAGINA */
+
+
+.pieDePagina{
+    text-align: right;
+    color: white;
+    box-shadow: 5px 0px 10px 10px peru;
+    background-color: brown;
+    border-radius: 22px 22px;
+}
+
+
+.spandeFooter{
+    color: white;
+}
+
+.pieDePagina img{
+    width: 20px;
+    height: 20px;
+}
+
+
+/* ---------------------------------- */

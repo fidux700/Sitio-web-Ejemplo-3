@@ -1,0 +1,179 @@
+body{
+    background-color: beige;
+}
+
+/* ---------------------------------- */
+/* NAV */
+nav ul {
+    list-style: none;
+
+}
+
+nav{
+    border: 1px solid peru;
+    border-radius: 22px 22px;
+}
+
+
+
+nav ul li img{
+    width: 20px;
+    height: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.Nuestrasterapias{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
+
+.Nuestrasterapias1{
+    color: red;
+    font-weight: bold;
+}
+.spanNav{
+    color: gray;
+}
+/* ---------------------------------- */
+/* TITULO PRINCIPAL */
+
+.Titulo{
+    font-size: 80px;
+    font-style:italic;
+    text-align: justify;
+    color: darkorange;
+    text-shadow:#333;
+}
+
+.ImagenTitulo{
+    text-align: center;
+}
+
+.ImagenTitulo img{
+    width: 100px;
+    height: 100px;
+}
+
+/* ---------------------------------- */
+/* PREGUNTAS */
+#faq{
+    text-align: left;
+    box-shadow: 5px 0px 30px 1px peru;
+    border-radius: 22px 22px;
+}
+  
+.subtitulos{
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+}
+
+.videosIframe{
+    width: 500px;
+    height: 270px;
+}
+
+
+/* ---------------------------------- */
+
+/* NUESTROS HORARIOS */
+
+table{
+
+    border: 1px solid;
+    background-color: peru;
+    
+}
+
+tbody {
+    font-size: 95%;
+    color: white;
+
+}
+
+table tr{
+    text-align: center;
+    border: 1px solid black;
+}  
+
+table th{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: 1px solid whitesmoke;
+}
+
+table tr td{
+    border: 1px solid whitesmoke;
+}
+/* ---------------------------------- */
+
+/* PAGINAS AMIGAS */
+.EnlacesAmigos{
+    list-style: none;
+}
+
+.EnlacesAmigos a{
+    color: blueviolet;
+    text-transform: uppercase;
+}
+.imagenFlechaUp{
+    width: 60px;
+    height: 60px;
+    
+}
+
+.ContenedorDeFlecha{
+    text-align: right;
+}
+/* ---------------------------------- */
+
+/* SECCION PIE DE PAGINA */
+
+
+.pieDePagina{
+    text-align: right;
+    color: white;
+    box-shadow: 5px 0px 10px 10px peru;
+    background-color: brown;
+    border-radius: 22px 22px;
+}
+
+
+.spandeFooter{
+    color: white;
+}
+
+.pieDePagina img{
+    width: 20px;
+    height: 20px;
+}
+
+
+/* ---------------------------------- */
+
+
+/* GENERAL */
+span{
+    font-weight: bold;
+    color: brown;
+}
+
+.subtitulosGenerales{
+    color: darkred;
+    font-size: 33px;
+    font-weight: bold;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
