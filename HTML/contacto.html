@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../estilosContacto.css">
+    <title>Contactate con nosotros</title>
+</head>
+<body>
+    <header>
+        <!-- LISTA ENCABEZADO -->
+        <nav id="NavUp">
+            <ul>
+                <li>
+                    <a class="Nuestrasterapias" href="#">Nuestras terapias</a>
+                    <ul>
+                        <li><img src="../Multimedia/Img Encabezado/Reiki.png" alt="Imagen de simbolo Reiki"><a href="desarrollo.html">Reiki</a></li>
+                        <li><img src="../Multimedia/Img Encabezado/Yoga.png" alt="Imagen de simbolo Yoga"><a href="desarollo1.html">Yoga</a></li>
+                        <li><img src="../Multimedia/Img Encabezado/Mindfulness.png" alt="Imagen de simbolo Mindfulness"><a href="desarrollo2.html">Mindfulness</a></li>
+                    </ul>
+                </li>
+                <li><img src="../Multimedia/Img Encabezado/Contacto.png" alt="Imagen de simbolo Contacto"><a class="Nuestrasterapias1" href="contacto.html">Contacto<span class="spanNav">(Actual)</span></a></li>
+                <li><img src="../Multimedia/Img Encabezado/Volver.png" alt="Imagen de simbolo Volver"><a class="Nuestrasterapias1" href="../index.html">Volver al inicio</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div>
+        <h1 class="Titulo"><span>#Tu</span> Equilibrio</h1>
+    </div>
+    <section>
+        <form>
+        <h2 class="subtitulosGenerales">CONTACTO</h2>
+        <fieldset>
+            <br>
+        <div>
+            <label for="Nombres">Nombres:</label>
+            <input id="Nombres" for="Nombres" type="text">
+        </div>
+        <br>
+        <div>
+            <label for="Apellidos">Apellidos:</label>
+            <input id="Apellidos" for="Apellidos" type="text">
+        </div>
+        <br>
+        <div>
+            <label for="Edad">Edad:</label>
+            <input id="Edad" for="Edad" type="text">
+        </div>
+        <br>
+        <div>
+            <label for="Email">Email:</label>
+            <input id="Email" for="Email" type="text">
+        </div>
+        <br>
+        <div>
+            <h3 class="subtitulos">¿Posee alguna patología?</h3>
+            <input type="radio" id="Coronaria" name="Patologías">
+            <label for="Patologías">Coronaria</label>
+            <input type="radio" id="Diabetes" name="Patologías">
+            <label for="Patologías">Diabetes</label>
+            <input type="radio" id="Otras" name="Patologías">
+            <label for="Patologías">Otras</label>
+            <input type="radio" id="Ninguna" name="Patologías">
+            <label for="Patologías">Ninguna</label>
+        </div>
+        <br>
+        <div>
+            <h3 class="subtitulos">Disponibilidad horaria</h3>
+            <input type="checkbox" name="Disponibilidad" id="Mañana" >
+            <label for="Disponibilidad">Mañana</label>
+            <input type="checkbox" name="Disponibilidad" id="Mediodia" >
+            <label for="Disponibilidad">Mediodía</label>
+            <input type="checkbox" name="Disponibilidad" id="Tarde" >
+            <label for="Disponibilidad">Tarde</label>
+        </div>
+        <br>
+        <div>
+            <label for="Listado">Elegir la disciplina que desee:</label>
+            <input list="Disciplinas" id="Listado" />
+            <datalist id="Disciplinas">
+                <option value="Reiki"></option>
+                <option value="Yoga"></option>
+                <option value="MindFulness"></option>
+            </datalist>
+        </div>
+        <br>
+        <div>
+            <textarea name="Mensaje" id="Mensaje" cols="40" rows="10" placeholder="Algun comentario extra que desee agregar:" ></textarea>
+        </div>
+        <br>
+        <div>
+            <button type="button">Enviar</button>
+        </div>
+    </fieldset>
+    </form>
+    <div class="ContenedorDeFlecha">
+        <a href="#NavUp">
+        <img class="imagenFlechaUp" src="../Multimedia/FlechaArriba.png" alt="Flecha apuntando hacia arriba" title="Ir hacia arriba">
+        </a>
+    </div>
+    </section>
+    <footer>
+        <div class="pieDePagina">
+        <p>Derechos reservados a <b>Fernando Martín Goñi; UNAHUR; fernandomgoni@gmail.com</b> / Creador del sitio web: <span class="spandeFooter">#Tu Equilibrio</span> </p>
+        </div>
+    </footer>
+</body>
+</html>
