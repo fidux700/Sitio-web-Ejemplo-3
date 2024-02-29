@@ -1,5 +1,5 @@
 # Sitio-web-Ejemplo-3 (Tu Equilibrio)
-Proyecto HTML + CSS (NO RESPONSIVE DESIGN) "link"
+Proyecto HTML + CSS (NO RESPONSIVE DESIGN) "[link](https://fidux700.github.io/Sitio-web-Ejemplo-3/)"
 
 --ESPAÑOL-- LENGUAJE USADO: HTML, CSS. NO RESPONSIVE DESIGN
 
